@@ -276,7 +276,7 @@ sections:
       - image: images/google-forms-logo-2BA8295903-seeklogo.com.png
         image_alt: Gatsby logo
         image_align: center
-      - image: images/logo-4.svg
+      - image: images/download (4).png
         image_alt: Sanity logo
         image_align: center
       - image: images/logo-7.svg
