@@ -221,7 +221,7 @@ sections:
     grid_gap_vert: medium
   - type: blog_feed_section
     title: Popular Templates
-    subtitle: 'Templates '
+    subtitle: Templates downloaded most in the community
     actions:
       - label: View All
         url: /blog
