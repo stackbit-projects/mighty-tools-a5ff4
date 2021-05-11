@@ -267,7 +267,7 @@ sections:
     title: Integrated with your favourite tools
     align: center
     grid_items:
-      - image: images/logo-1.svg
+      - image: images/download (3).png
         image_alt: Contentful logo
         image_align: center
       - image: images/logo-2.svg
