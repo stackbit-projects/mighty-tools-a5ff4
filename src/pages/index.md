@@ -220,7 +220,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: blog_feed_section
-    title: What's New
+    title: Popular Templates
     subtitle: Blog Feed Section Example
     actions:
       - label: View All
