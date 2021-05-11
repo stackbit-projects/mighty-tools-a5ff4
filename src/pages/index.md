@@ -3,9 +3,8 @@ sections:
   - type: hero_section
     title: 'Democratize tools and methodologies to deliver great products '
     subtitle: Optional hero section subtitle
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: |
+      Democratize tools and methodologies to deliver great products.
     actions:
       - label: Try Free
         url: /pricing
