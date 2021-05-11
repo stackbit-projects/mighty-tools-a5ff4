@@ -139,7 +139,7 @@ sections:
     title: Integrated with your favourite tools
     align: center
     grid_items:
-      - image: images/download (3).png
+      - image: images/adorable-sloth.png
         image_alt: Contentful logo
         image_align: center
       - image: images/google-docs-logo-6A8CD4F30A-seeklogo.com.png
