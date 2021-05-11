@@ -351,4 +351,5 @@ seo:
       value: images/diy-preview.png
       relativeUrl: true
 template: advanced
+title: 'Democratize tools and methodologies to deliver great products '
 ---
