@@ -20,6 +20,7 @@ sections:
     padding_top: small
     padding_bottom: large
     has_border: true
+    category: src/data/categories/category-iui6g2y9m.json
   - type: form_section
     title: Inline Form
     title_align: center
