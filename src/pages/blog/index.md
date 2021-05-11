@@ -3,7 +3,7 @@ title: Templates
 sections:
   - type: hero_section
     title: Templates
-    subtitle: The optional subtitle
+    subtitle: Product Management Templates
     align: center
     padding_top: medium
     padding_bottom: none
