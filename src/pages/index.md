@@ -1,7 +1,7 @@
 ---
 sections:
   - type: hero_section
-    title: 'Democratize tools and methodologies to deliver great products '
+    title: Templates for product teams
     subtitle: Optional hero section subtitle
     content: |
       Democratize tools and methodologies to deliver great products.
