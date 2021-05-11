@@ -67,7 +67,7 @@ sections:
     align: center
     background_color: secondary
   - type: grid_section
-    title: Why choose PMToolset
+    title: Why PMToolset
     subtitle: Grid Section Example
     grid_items:
       - title: Section Item 1
