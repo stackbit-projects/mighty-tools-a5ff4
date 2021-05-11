@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Templates
 sections:
   - type: hero_section
     title: Blog
