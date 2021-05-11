@@ -221,7 +221,7 @@ sections:
     grid_gap_vert: medium
   - type: blog_feed_section
     title: Popular Templates
-    subtitle: Blog Feed Section Example
+    subtitle: 'Templates '
     actions:
       - label: View All
         url: /blog
