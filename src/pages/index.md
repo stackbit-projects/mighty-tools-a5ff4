@@ -265,7 +265,6 @@ sections:
     background_color: secondary
   - type: grid_section
     title: Integrated with your favourite tools
-    subtitle: Grid Section Example
     align: center
     grid_items:
       - image: images/logo-1.svg
