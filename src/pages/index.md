@@ -30,7 +30,6 @@ sections:
     background_color: none
   - type: features_section
     title: How it works
-    subtitle: Features Section Example
     features:
       - title: The Big Title For the Feature
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
