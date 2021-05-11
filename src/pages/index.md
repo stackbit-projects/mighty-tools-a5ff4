@@ -273,7 +273,7 @@ sections:
       - image: images/google-docs-logo-6A8CD4F30A-seeklogo.com.png
         image_alt: Netlify logo
         image_align: center
-      - image: images/logo-3.svg
+      - image: images/google-forms-logo-2BA8295903-seeklogo.com.png
         image_alt: Gatsby logo
         image_align: center
       - image: images/logo-4.svg
