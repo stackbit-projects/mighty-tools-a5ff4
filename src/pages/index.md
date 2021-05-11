@@ -332,7 +332,9 @@ sections:
     background_color: secondary
 seo:
   title: Product Toolset
-  description: The preview of the DIY theme
+  description: >-
+    Tool agnostic templates for product teams to deliver great products.
+    Integrated with tools such as Notion, Google & Confluence.
   extra:
     - name: 'og:type'
       value: website
