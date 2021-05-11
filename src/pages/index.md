@@ -48,10 +48,10 @@ sections:
         media_position: right
         media_width: fifty
       - title: Download or spin it up in your favourite tool
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Simple, no bullshit templates that’ll help you work effectively as a
+          team. You can download it to use it offline, or directly use it in
+          your favourite tool
         actions:
           - label: Learn More
             url: /style-guide
