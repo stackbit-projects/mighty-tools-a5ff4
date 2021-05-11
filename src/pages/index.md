@@ -91,10 +91,10 @@ sections:
         image_has_padding: true
       - title: Bite-sized
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          We strip down all the jargons in the industry, and presented in an
+          easy to understand manner to cater for product managers in all levels.
+          Skip the jargon, get straight to work.
         content_align: left
         actions:
           - label: Learn More
