@@ -2,7 +2,6 @@
 sections:
   - type: hero_section
     title: Templates for product teams
-    subtitle: Optional hero section subtitle
     content: |
       Democratize tools and methodologies to deliver great products.
     actions:
