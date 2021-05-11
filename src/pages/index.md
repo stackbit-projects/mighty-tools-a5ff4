@@ -33,10 +33,10 @@ sections:
     features:
       - title: Search or browse through our extensive library
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          We offer templates that help you tackle product challenges such as
+          hypothesis validations, customer interviews, survey designs,
+          collaboration docs and much more.
         actions:
           - label: Learn More
             url: /style-guide
