@@ -264,7 +264,7 @@ sections:
     align: center
     background_color: secondary
   - type: grid_section
-    title: Image Grid
+    title: Integrated with your favourite tools
     subtitle: Grid Section Example
     align: center
     grid_items:
