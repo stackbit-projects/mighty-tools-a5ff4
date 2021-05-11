@@ -32,7 +32,6 @@ sections:
     title: How it works
     features:
       - title: Search or browse through our extensive library
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >
           We offer templates that help you tackle product challenges such as
           hypothesis validations, customer interviews, survey designs,
