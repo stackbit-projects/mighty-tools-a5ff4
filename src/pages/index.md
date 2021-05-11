@@ -71,10 +71,10 @@ sections:
     grid_items:
       - title: Actionable
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          We offer actionables templates with sample work that’ll help you go
+          from ambiguity to clarity by doing instead of spending days sifting
+          through tons of online readings.
         content_align: left
         actions:
           - label: Learn More
