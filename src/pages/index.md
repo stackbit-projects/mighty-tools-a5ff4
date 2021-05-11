@@ -270,7 +270,7 @@ sections:
       - image: images/download (3).png
         image_alt: Contentful logo
         image_align: center
-      - image: images/logo-2.svg
+      - image: images/google-docs-logo-6A8CD4F30A-seeklogo.com.png
         image_alt: Netlify logo
         image_align: center
       - image: images/logo-3.svg
