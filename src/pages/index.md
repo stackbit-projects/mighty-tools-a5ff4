@@ -111,10 +111,10 @@ sections:
         image_has_padding: true
       - title: Flexible
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Our templates flex to work for you instead of the other way round?
+          Stick with using your favourite product tool, it’s all integrated &
+          automated for you to get shit down effectively.
         content_align: left
         actions:
           - label: Learn More
